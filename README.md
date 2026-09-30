@@ -80,7 +80,24 @@ The dataset contains:
 <img width="1169" height="744" alt="Screenshot 2026-09-29 102706" src="https://github.com/user-attachments/assets/dff4926e-2cf1-4f59-9f42-d87bc6cbfb4c" />
 
 
+## Repository Structure
 
+```text
+online-retail-sales-profitability-analysis/
+
+├── README.md
+├── online_retail_sales.pbix
+├── online_retail_sales_case_study.pdf
+├── sample_superstore.csv
+└── images/
+    ├── dashboard_overview_1.png
+    ├── dashboard_overview_2.png
+    ├── sales_trend_analysis.png
+    ├── regional_analysis.png
+    ├── category_profitability_analysis.png
+    ├── customer_segment_analysis.png
+    └── recommendations.png
+```
 
 ## Author
 
